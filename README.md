@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+<img src="https://slack.yourdomain.com/badge.svg">
 
 You can use the [editor on GitHub](https://github.com/ng-turkey/ngturkey-web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
